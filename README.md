@@ -4,7 +4,7 @@ Webová aplikace “PSYCHO acoustic/visual Editor (PAVE)” slouží na programo
 
 ## Návody a dokumentace
   * <small> [Návod PSYCHO acoustic/visual Editor](https://docs.google.com/document/d/1_w9CdHvQn5OqkeGINkN24o_5EP7_MwqQbe8gMd8eJJM/edit?usp=sharing ) </small>
-  * <small> [Sdílení složek z datových úložišť](https://drive.google.com/file/d/1jQGH6JRXaVcIrMZJRKsmwNk0nm6RvjJ6/view?usp=sharing) </small>
+  * <small> [Sdílení složek z datových úložišť](https://docs.google.com/document/d/1f2bpJEkGOp2SbiNmvsj4KiHQG6kSSyCqiECM71p0nMc/edit?usp=sharing) </small>
   * <small> [Technická dokumentace](https://docs.google.com/document/d/1AMULNLFVX_tGTrLyCcrP918JxHLZGbMRIb1_vMu7YUU/edit?usp=sharing) </small>
   
 ### Další informace   
