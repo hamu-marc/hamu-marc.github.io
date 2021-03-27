@@ -11,6 +11,7 @@ Webová aplikace “PSYCHO acoustic/visual Editor (PAVE)” slouží na programo
   * <small> [Podmínky užití (anglicky)](terms.md) </small>
   * <small> [Politika dat (anglicky)](datapolicy.md) </small>
   * <small> [Kontakt](https://www.hamu.cz/cs/veda-a-vyzkum/vedecka-pracoviste/marc/) </small>
+  * <small> [Referenční příručka (ve vývoji)](https://hamu-marc.gitbook.io/psychotest-doc/)
   
 
 ## DEMO testy
