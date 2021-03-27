@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: HAMU MARC
-description: Psychoacoustic and psychovisual tests
+description: Psychoacoustické a psychovizuální testy
+show_downloads: false
 plugins:
   - jekyll-redirect-from
