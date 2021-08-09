@@ -1,6 +1,7 @@
 # Aplikace  PSYCHO 	acoustic/visual Editor
 Webová aplikace “PSYCHO acoustic/visual Editor (PAVE)” slouží na programování a správu multimediálních percepčních testů.
-  * <small> [Editor - testů](/psychotest/editor.html) </small>
+  * [Demonstračních a ukázkové percepční testy](/psychotest/) - vzorové nebo veřejně přístupné percepční testy
+  * [Editor testů](/psychotest/editor.html)  - editor testů slouží k propojení datového uložiště se zvukovými nebo video stimuli s definicí percepčního testu, který je prezentován respondentovi.
 
 ## Návody a dokumentace
   * <small> [Návod PSYCHO acoustic/visual Editor](https://docs.google.com/document/d/1_w9CdHvQn5OqkeGINkN24o_5EP7_MwqQbe8gMd8eJJM/edit?usp=sharing ) </small>
