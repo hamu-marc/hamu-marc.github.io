@@ -17,6 +17,7 @@ Webová aplikace “PSYCHO acoustic/visual Editor (PAVE)” slouží na programo
 
 ## DEMO testy
 ### Výuka práce s PAVE
+ * <small> e-learningový kurz:[e-learningový kurz: Příprava percepčních testů ](moodle.amu.cz/course/view.php?id=817) - pro přihlášení ke kurzu stačí zaslat požadavek na marek.fric@hamu.cz </small> 
 ### Nácvikové testy 
  * <small> [Funkční hodnocení laryngoskopického vyšetření - hodnocení míry a typu glotické insuficience a supraglotické aktivity](https://psychoacoustic.hamu.cz/psychotest/#/directtest/N4IgTgpgtg9gLhAlgqIBcoAmMDuA7AGxgENM4YBrCPdEAYQDYoBOABRgHMBnAMQFkAzAwCCATwBaIADQg4ogA4RaAeXwBjIgFdMaiFzwQ408Hs0E45KjTT0mbTr0EiJIAL4z5xOAAtaxxJi0AMpwYDAARjAA+oh4XFFcmvJgxBwEwhRwAHTyCFxGrkA=) </small> 
  * <small> [RBAS škály - vysvětlení (mužský hlas)](https://psychoacoustic.hamu.cz/psychotest/index.html#/performtest/N4IgTgpgtg9gLhAlgqIBcoAmMDuA7AGxgENM4YBrCPdECgNhwDkBVOADgDEA1AdgBVMAYwDqATRAAacBADOAVwJxyVGmhAAtAGZCATPIAeAEQBeAc1kALbgBkADDakg4ATwAOEWgHl8QovOE5PAg4EABfaTdiOEtaJ0RMWgB6ACUAIQBBAGUAWih5E0QcgDcXeQpiADo3BFlQsKA) </small>
