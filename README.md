@@ -4,8 +4,9 @@ Webová aplikace “PSYCHO acoustic/visual Editor (PAVE)” slouží na programo
 
 ## Návody a dokumentace
   * <small> [Referenční příručka (ve vývoji)](https://hamu-marc.gitbook.io/psychotest-doc/)
-  * <small> <b>e-learningový kurz:</b> [e-learningový kurz: Příprava percepčních testů ](moodle.amu.cz/course/view.php?id=817) - pro přihlášení ke kurzu stačí zaslat požadavek na marek.fric@hamu.cz </small> 
+  * <small> [Příprava percepčních testů ](moodle.amu.cz/course/view.php?id=817) <b>(e-learningový kurz)</b> - pro přihlášení ke kurzu stačí zaslat požadavek na marek.fric@hamu.cz </small> 
   * <small> [Návod PSYCHO acoustic/visual Editor](https://docs.google.com/document/d/1_w9CdHvQn5OqkeGINkN24o_5EP7_MwqQbe8gMd8eJJM/edit?usp=sharing ) </small>
+  * <small> [Grafika a desigh PAVE](https://docs.google.com/document/d/1wE-r8nUQrMa1pgE144r-67K-p27-Kz3p/edit?usp=sharing) </small>
   * <small> [Sdílení složek z datových úložišť](https://docs.google.com/document/d/1f2bpJEkGOp2SbiNmvsj4KiHQG6kSSyCqiECM71p0nMc/edit?usp=sharing) </small>
   * <small> [Technická dokumentace](https://docs.google.com/document/d/1AMULNLFVX_tGTrLyCcrP918JxHLZGbMRIb1_vMu7YUU/edit?usp=sharing) </small>
   
