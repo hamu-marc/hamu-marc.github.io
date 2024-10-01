@@ -3,7 +3,7 @@ Webová aplikace “PSYCHO acoustic/visual Editor (PAVE)” slouží na programo
   * [Editor testů](/psychotest/editor.html)  - editor testů slouží k propojení datového uložiště se zvukovými nebo video stimuli s definicí percepčního testu, který je prezentován respondentovi.
 
 ## Návody a dokumentace
-  * <small> [Referenční příručka (ve vývoji)](https://hamu-marc.gitbook.io/psychotest-doc/)
+  * <small> [Referenční příručka (průběžně se doplňuje)](https://hamu-marc.gitbook.io/psychotest-doc/)
   * <small> [Příprava percepčních testů ](moodle.amu.cz/course/view.php?id=817) <b>(e-learningový kurz)</b> - pro přihlášení ke kurzu stačí zaslat požadavek na marek.fric@hamu.cz </small> 
   * <small> [Návod PSYCHO acoustic/visual Editor](https://docs.google.com/document/d/1_w9CdHvQn5OqkeGINkN24o_5EP7_MwqQbe8gMd8eJJM/edit?usp=sharing ) </small>
   * <small> [Grafika a desigh PAVE](https://docs.google.com/document/d/1wE-r8nUQrMa1pgE144r-67K-p27-Kz3p/edit?usp=sharing) </small>
